@@ -82,12 +82,12 @@ li:hover a {
 
 .divjim{
     padding: 10px;
-    background: rgb(212, 212, 212);
+    border: groove black;
 }
 
 h2{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    text-emphasis: underline;
+    font-size: 35px;
 }
 
 
