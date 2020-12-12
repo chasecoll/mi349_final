@@ -14,17 +14,19 @@ header{
 
 header .imghead {
     position: absolute;
-    size: 20px;
+    width: 15px;
+    height: 15px;
 }
 
 .container{
+    margin-top: 40px;
     position: relative;
     width: 100%;
 }
 
 .container .img1{
     width: 710px;
-    height: 200px;
+    height: 400px;
 }
 
 .container .button1{
