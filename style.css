@@ -12,6 +12,8 @@ image{
     border-radius: 50%;
 }
 
+div img{ display: inline-block;}
+
 .imgstyle1 {
     width: 80%;
     background-color: rgb(122, 185, 122);
