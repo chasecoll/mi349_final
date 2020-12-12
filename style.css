@@ -14,18 +14,15 @@ img{
 
 .imgstyle1 {
     width: 100%;
-    background-color: rgb(122, 185, 122);
+    background-color: rgb(169, 236, 167);
     box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
     border-radius: 15px;
-    margin-top: 60px;
+    margin-top: 80px;
+    margin-left: auto;
+    margin-right: auto;
     display: inline-block;
-    padding: auto;
   }
   
-.imgcaptionstyle {
-    display: inline-block;
-    text-align: center;
-  }
 
 ul {
     margin:10;
