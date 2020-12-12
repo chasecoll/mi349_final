@@ -38,7 +38,7 @@ header{
     border-radius: 10px;
     top: 50%;
     right: 25%;
-    background-color: transparent;
+    background-color: whitesmoke;
     color: black;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
