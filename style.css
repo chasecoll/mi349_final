@@ -17,8 +17,8 @@ header{
 
 .headdiv .imghead {
     float: left;
-    width: 100px;
-    height: 100px;
+    width: 150px;
+    height: 150px;
 }
 
 .container{
@@ -80,6 +80,15 @@ li:hover a {
     background-color: #71e47a;
 }
 
+.divjim{
+    padding: 10px;
+    background: rgb(212, 212, 212);
+}
+
+h2{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    text-emphasis: underline;
+}
 
 
 
