@@ -1,157 +1,31 @@
-
-html {
-    background-color:rgb(106, 224, 126);
+/*Strip the ul of padding and list styling*/
+ul {
+    list-style-type:none;
+    margin:0;
+    padding:0;
+    position: absolute;
 }
-body{
-    background-color:rgb(106, 224, 126);
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    margin: 40px;
-    color:black;
-    border-top: 15px groove whitesmoke;
-}
-
-h1{
-font-style: oblique;
-font-variant: small-caps;
-font-size: xx-large;
-}
-
-header{
-    margin-left: 15px;
-}
-
-nav{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-variant: small-caps;
-    font-style: normal;
-    font-size: larger;
-    border-bottom: thin groove whitesmoke;
-    margin-left: 25px;
-}
-
-h2{
-    margin-bottom: -50px;
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-font-variant: small-caps;
-font-style: normal;
-font-size: xx-large;
-}
-
-h3{
-font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-font-variant: small-caps;
-font-style: normal; 
-font-size: large;   
-}
-
-h4{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-variant: small-caps;
-    font-style: normal;
-    font-size: large; 
-}
-
-h5{
-    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
-    font-variant: small-caps;
-    font-style: normal;
-    font-size: xx-large; 
-    margin-bottom: 10px;
-    margin-top: 20px;
-}
-
-p{
-    line-height: 1.5em;
-    line-break: loose;
-}
-
-article{
-    margin: 15px;
-    padding: 40px;
-}
-
-form{
-    display: flex;
-    margin: 50px;
-    margin-bottom: 50px;
-    border: lightblue thin;
-}
-
-label{
-    margin: 15px;
-}
-
-fieldset{
-    margin: 20px;
-    width: 600px;
-}
-
-#blog{
-    border-top: thick groove whitesmoke;
-}
-
-.namefix{
-    margin-top: -20px;
-}
-
-.above{
-    border-top: thick groove whitesmoke;
-}
-
-.contact{
-    margin-left: 15px;
-    margin-top: 0px;
-}
-
-.blog-post{
-    border-bottom: thick groove whitesmoke;
-}
-
-.sticky{
-    background: rgb(111, 201, 111);
-    position: sticky;
-    position: -webkit-sticky; 
-    top: 0;
-}
-
-.imgcontainer{
-    background: black;
-    height: 90px;
-    width: 90px;
+/*Create a horizontal list with spacing*/
+li {
+    display:inline-block;
     float: left;
-    margin-bottom: 50px;
-    margin-right: 40px;
-    border: 3px groove whitesmoke;
-
+    margin-right: 1px;
 }
-
-.artborder{
-    font-size: larger;
-    margin-bottom: 50px;
-    border-bottom: thin groove whitesmoke;
+/*Style for menu links*/
+li a {
+    display:block;
+    min-width:140px;
+    height: 50px;
+    text-align: center;
+    line-height: 50px;
+    font-family: "Helvetica Neue", Helvetica, Arial, sans-serif;
+    color: #fff;
+    background: #2f3036;
+    text-decoration: none;
 }
-
-[title~=image1] {
-    border: 5px groove whitesmoke;
-  }
-
-.div1{
-    padding: 1em;
-    display:flex;
-    flex-direction: column;
-    order: 2;
-    margin: 5px;
-}
-
-.div1 > textarea {
-    flex: 1;
-    min-width: 35em;
-}
-
-.div2{
-    padding:1em;
-    flex:1;
-    order:1;
+/*Hover state for top level links*/
+li:hover a {
+    background: #19c589;
 }
 
 
