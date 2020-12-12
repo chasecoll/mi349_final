@@ -14,7 +14,7 @@ header{
 
 header .imghead {
     position: absolute;
-    size: 50px;
+    size: 20px;
 }
 
 .container{
@@ -23,7 +23,7 @@ header .imghead {
 }
 
 .container .img1{
-    min-width: 710px;
+    width: 100%;
     height: auto;
 }
 
@@ -38,6 +38,10 @@ header .imghead {
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
     padding: 12px 24px;
+}
+
+.container .button1:hover{
+    background-color: rgb(130, 223, 130);
 }
 
 ul {
