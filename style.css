@@ -2,21 +2,19 @@ html{
     background-color: rgb(169, 236, 167);
 }
 
-h1{
+.headdiv h1{
+    position: relative;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 80px;
+    top: 18px;
+    left: 10px;
     color: black;
 }
 
-header{
-    display: inline-block;
-}
-
-header .imghead {
-    display: inline-block;
-    position: absolute;
-    width: 25px;
-    height: 25px;
+.headdiv .imghead {
+    float: left;
+    width: 100px;
+    height: 100px;
 }
 
 .container{
