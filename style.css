@@ -6,10 +6,6 @@ header{
     border-bottom: groove black;
 }
 
-.headdiv{
-    display: inline-block;
-}
-
 .headdiv h1{
     position: relative;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
