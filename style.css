@@ -111,29 +111,37 @@ h4{
 }
 
 .form1 {
-    background-color: #f2f2f2;
+    background-color: whitesmoke;
     padding: 10px;
+    border: groove black;
   }
+
+label{
+    padding: 10px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
 
 input[type=text] {
     padding: 10px;
-    width: 100%;  
+    width: 80%;  
   }
 
   select {
       padding: 10px;
-      width: 100%;
+      width: 8%;
   }
 
   textarea{
       padding: 10px;
-      width: 100%;
+      width: 80%;
   }
   
   input[type=submit] {
     background-color: whitesmoke;
     color: black;
-    padding: 12px 20px;
+    border: groove black;
+    border-radius: 5px;
+    padding: 20px;
   }
   
   input[type=submit]:hover {
