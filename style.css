@@ -2,12 +2,12 @@ html{
     background-color: rgb(169, 236, 167);
 }
 
-head{
-    display: inline-block;
-}
-
 header{
     border-bottom: groove black;
+}
+
+.headdiv{
+    display: inline-block;
 }
 
 .headdiv h1{
