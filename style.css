@@ -40,7 +40,7 @@ header{
     border-radius: 10px;
     top: 50%;
     right: 25%;
-    background-color: whitesmoke;
+    background-color: white;
     color: black;
     transform: translate(-50%, -50%);
     -ms-transform: translate(-50%, -50%);
@@ -118,7 +118,7 @@ h6{
 
 .form1 {
     margin-top: 30px;
-    background-color: whitesmoke;
+    background-color: white;
     padding: 10px;
     border: groove black;
   }
