@@ -28,6 +28,8 @@ header{
 }
 
 .container .img1{
+    border-radius: 5px;
+    border: groove black;
     width: 640px;
     height: 360px;
 }
@@ -81,7 +83,7 @@ li:hover a {
 }
 
 .divjim{
-    margin-top: 5px;
+    margin-top: 15px;
     padding: 10px;
     border: groove black;
     background:white;
