@@ -7,10 +7,9 @@ header{
 }
 
 .headdiv h5{
-    float: right;
+    position: relative;
     font-family: cursive thin;
     font-size: 35px;
-    margin-bottom: 75px;
 }
 
 .headdiv h1{
