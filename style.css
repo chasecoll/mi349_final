@@ -81,9 +81,10 @@ li:hover a {
 }
 
 .divjim{
+    margin-top: 15px;
     padding: 10px;
     border: groove black;
-    background: rgb(169, 236, 167);
+    background:white;
     ;
 }
 
