@@ -2,7 +2,6 @@ html{
     background-color: rgb(169, 236, 167);
 }
 
-
 header{
     border-bottom: groove black;
 }
@@ -105,10 +104,7 @@ h3{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-.subhead{
-    right: 150px;
-    font-family: cursive;
-    font-size: 30px;
-    color: whitesmoke;
+h4{
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    font-size: 45px;
 }
-
