@@ -21,6 +21,13 @@ header{
     height: 150px;
 }
 
+.headdiv .reducereuse{
+    float: right;
+    font-family: cursive thin;
+    font-size: 35px;
+    color: whitesmoke;
+}
+
 .container{
     margin-top: 100px;
     position: relative;
@@ -100,7 +107,7 @@ h2{
 }
 
 h3{
-    font-size: 15px;
+    font-size: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
