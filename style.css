@@ -172,5 +172,6 @@ input[type=text] {
       border: groove black;
       border-radius: 5px;
       margin-top: 70px;
-      width: 60%;
+      width: 800px;
+      height:376px;
   }
