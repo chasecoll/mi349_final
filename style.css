@@ -85,13 +85,6 @@ li:hover a {
     padding: 10px;
     border: groove black;
     background:white;
-    ;
-}
-
-.divjim2{
-    border: groove black;
-    background:white;
-    ;
 }
 
 h2{
@@ -102,6 +95,7 @@ h2{
 .headingabout{
     font-size: 75px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+    margin-bottom: 20px;
 }
 
 h3{
