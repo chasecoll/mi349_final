@@ -112,7 +112,7 @@ h4{
 
 h6{
     font-size: 40px;
-    padding: 8px;
+    padding: 3px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
@@ -123,22 +123,22 @@ h6{
   }
 
 label{
-    padding: 10px;
+    padding: 20px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 input[type=text] {
-    padding: 10px;
+    padding: 20px;
     width: 98%;  
   }
 
   select {
-      padding: 10px;
+      padding: 20px;
       width: 98%;
   }
 
   textarea{
-      padding: 10px;
+      padding: 20px;
       width: 98%;
   }
   
