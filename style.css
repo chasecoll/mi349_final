@@ -100,11 +100,12 @@ h2{
 }
 
 h3{
-    font-size: 35px;
+    font-size: 15px;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
 h4{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 35px;
+    border-bottom: groove black;
 }
