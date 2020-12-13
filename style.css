@@ -88,6 +88,12 @@ li:hover a {
     ;
 }
 
+.divjim2{
+    border: groove black;
+    background:white;
+    ;
+}
+
 h2{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 35px;
