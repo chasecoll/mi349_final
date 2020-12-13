@@ -6,12 +6,6 @@ header{
     border-bottom: groove black;
 }
 
-.headdiv h5{
-    position: right;
-    font-family: cursive thin;
-    font-size: 35px;
-}
-
 .headdiv h1{
     position: relative;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
