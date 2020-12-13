@@ -110,6 +110,12 @@ h4{
     border-bottom: groove black;
 }
 
+h6{
+    font-size: 40px;
+    padding: 8px;
+    font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
+}
+
 .form1 {
     background-color: whitesmoke;
     padding: 10px;
@@ -137,7 +143,7 @@ input[type=text] {
   }
   
   input[type=submit] {
-    background-color: whitesmoke;
+    background-color: rgb(140, 202, 140);
     color: black;
     border: groove black;
     border-radius: 5px;
@@ -145,7 +151,7 @@ input[type=text] {
   }
   
   input[type=submit]:hover {
-    background-color: #45a049;
+    background-color: white;
   }
   
   
