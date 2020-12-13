@@ -6,6 +6,12 @@ header{
     border-bottom: groove black;
 }
 
+.headdiv h5{
+    float: right;
+    font-family: cursive thin;
+    font-size: 35px;
+}
+
 .headdiv h1{
     position: relative;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
@@ -108,11 +114,4 @@ h4{
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
     font-size: 35px;
     border-bottom: groove black;
-}
-
-h5{
-    font-size: 35px;
-    font-family: cursive thin;
-    color: whitesmoke;
-
 }
