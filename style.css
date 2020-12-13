@@ -109,3 +109,35 @@ h4{
     font-size: 35px;
     border-bottom: groove black;
 }
+
+.form1 {
+    background-color: #f2f2f2;
+    padding: 10px;
+  }
+
+input[type=text] {
+    padding: 10px;
+    width: 100%;  
+  }
+
+  select {
+      padding: 10px;
+      width: 100%;
+  }
+
+  textarea{
+      padding: 10px;
+      width: 100%;
+  }
+  
+  input[type=submit] {
+    background-color: whitesmoke;
+    color: black;
+    padding: 12px 20px;
+  }
+  
+  input[type=submit]:hover {
+    background-color: #45a049;
+  }
+  
+  
