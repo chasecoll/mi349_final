@@ -62,7 +62,7 @@ header{
 
 .container2 .imgheadshot{
     width: 100%;
-    height: 700px;
+    height: 100%;
     border: groove black;
     border-radius: 5px;
 }
